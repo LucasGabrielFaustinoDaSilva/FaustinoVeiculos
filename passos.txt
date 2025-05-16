@@ -8,3 +8,5 @@ dotnet new webapi -o FaustinoVeiculos --use-controllers
 
 csproj = onde olha a versão do .NET que esta sendo usada
 Nullable
+
+dotnet add package Swashbuckle.AspNetCore
